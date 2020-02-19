@@ -19,3 +19,4 @@ The user also has an option to click a button "Copy to Clipboard" and to copy th
 
 It is a responsive application that can be used on the devices of different sizes. 
 
+A link to the deployed project: https://iwidener.github.io/Password-Generator/
