@@ -15,7 +15,6 @@ function generate(){
     document.getElementById("display").value = password;
 }
 
-
 function copy(){
 
     document.getElementById("display").select();
